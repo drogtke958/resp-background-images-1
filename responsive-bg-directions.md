@@ -1,4 +1,4 @@
-﻿# 013 RWD / Responsive Background Image
+﻿# 013 RWD / Responsive Background Images
 
 ## Overview
 
